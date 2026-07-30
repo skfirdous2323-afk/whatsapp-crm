@@ -28,11 +28,16 @@ title: {
 },
 
 
-  description: "Self-hostable CRM template for WhatsApp.",
-  robots: {
-    index: false,
-    follow: false,
-  },
+
+description: "ZIVEXO CRM – Professional WhatsApp CRM for Modern Businesses.";
+
+
+robots: {
+  index: true,
+  follow: true,
+},
+
+
   icons: {
     icon: [{ url: "/icon" }],
   },
