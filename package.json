@@ -28,7 +28,9 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "dev": "node server.js",
+
+"dev": "next dev --webpack",
+
     "build": "next build",
     "start": "node server.js",
     "lint": "eslint",
