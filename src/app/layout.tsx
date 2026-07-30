@@ -29,8 +29,7 @@ title: {
 
 
 
-description: "ZIVEXO CRM – Professional WhatsApp CRM for Modern Businesses.";
-
+description: "ZIVEXO CRM – Professional WhatsApp CRM for Modern Businesses.",
 
 robots: {
   index: true,
